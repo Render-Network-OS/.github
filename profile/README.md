@@ -59,7 +59,7 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 - **Crypto + Fiat**: USDC, SOL, and credit card support
 - **0.5-1% Fees**: 10-100x cheaper than traditional payment processors
 
-**Use Cases:** API monetization, AI agent payments, content paywalls, microtransactions
+**Use Cases:** Pay-per-request APIs, AI agent autonomous payments, premium content access, SaaS without subscriptions, creator monetization, microtransactions, peer-to-peer commerce
 
 #### 🎯 VAP (Verifiable Attention Protocol)
 *Earn rewards for real, verified attention*
