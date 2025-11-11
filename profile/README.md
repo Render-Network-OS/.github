@@ -54,9 +54,9 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 *Accept payments from anyone, anywhere, instantly*
 
 - **x402 Protocol**: Pay-per-request API access using HTTP 402 "Payment Required"
-- **Multi-Facilitator Routing**: Automatically selects optimal payment provider (PayAI, Conduit, or direct Solana)
-- **Instant Settlement**: Sub-2-second transaction finality on Solana
-- **Crypto + Fiat**: USDC, SOL, and credit card support (fiat converts to on-chain USDC)
+- **Multi-Facilitator Routing**: Automatically selects optimal payment provider (PayAI, Conduit, and more facilitators coming soon)
+- **Instant Settlement**: Sub-second transaction finality on Solana
+- **Crypto + Fiat**: USDC, SOL, and credit card support
 - **0.5-1% Fees**: 10-100x cheaper than traditional payment processors
 
 **Use Cases:** API monetization, AI agent payments, content paywalls, microtransactions
