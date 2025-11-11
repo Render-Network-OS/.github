@@ -1,5 +1,7 @@
 <div align="center">
 
+![Render Network OS Banner](./renderBanner.jpeg)
+
 # Render Network OS
 
 **Building the Infrastructure for the Creator Economy**
