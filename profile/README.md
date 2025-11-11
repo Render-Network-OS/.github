@@ -16,7 +16,7 @@
 
 ## 🌟 Our Mission
 
-We're building open-source infrastructure that empowers creators to monetize their work, prove their value, and build sustainable businesses—without platform lock-in, high fees, or complex integrations.
+We're building infrastructure—both open-source and proprietary—that empowers creators to monetize their work, prove their value, and build sustainable businesses—without platform lock-in, high fees, or complex integrations.
 
 **The Vision:** A world where any creator can accept payments anywhere, verify genuine engagement, and share revenue transparently—all powered by decentralized technology that puts creators first.
 
