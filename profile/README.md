@@ -64,7 +64,7 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 #### 🎯 VAP (Verifiable Attention Protocol)
 *Earn rewards for real, verified attention*
 
-- **Cryptographic Proof**: Ed25519 signature-based attention verification
+- **Cryptographic Proof**
 - **Real-Time Rewards**: Instant micro-payments for genuine engagement
 - **State Channels**: Off-chain accumulation with on-chain settlement
 - **Platform Agnostic**: Works on any website, app, or streaming platform
@@ -101,7 +101,7 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 **Built for Scale, Security, and Speed**
 
 ### Blockchain
-- **Solana**: 400ms finality, $0.00025 transaction fees
+- **Solana**
 - **Smart Contracts**: Anchor framework for safety and auditability
 - **SPL Tokens**: Native USDC, SOL, and custom token support
 
@@ -111,7 +111,7 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 - **Node.js/TypeScript**: Indexing, analytics, and integrations
 
 ### Infrastructure
-- **Kubernetes (DOKS)**: Auto-scaling microservices on DigitalOcean
+- **Kubernetes**: Auto-scaling microservices
 - **Redpanda**: Kafka-compatible streaming for real-time events
 - **PostgreSQL**: Transactional data integrity
 - **Redis**: Sub-millisecond caching and state management
@@ -120,7 +120,6 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 - **TypeScript SDKs**: `@555x402/agg`, `@vap/sdk`, `@555x402/hyperlink`
 - **Go Packages**: Coming soon
 - **Rust Crates**: Coming soon
-- **Comprehensive Docs**: API references, guides, examples
 
 ---
 
@@ -130,7 +129,6 @@ We're committed to advancing the [x402 protocol](https://x402.org)—an open sta
 
 **Our Contributions:**
 - ✅ **Multi-facilitator aggregation**: Route payments through best provider automatically
-- ✅ **Terminology standardization**: Universal sender/recipient model (not merchant/customer)
 - ✅ **Open-source implementations**: Reference implementations for Solana x402
 - ✅ **Developer-first SDKs**: Make x402 adoption trivial
 - ✅ **Cross-chain ready**: Architecture supports multiple blockchains
@@ -191,7 +189,7 @@ We're building infrastructure that enables **AI agents to transact autonomously*
 ### Real-World Impact
 
 **For Creators:**
-- Accept payments in 5 minutes (no complex integration)
+- Accept payments in minutes (no complex integration)
 - Keep 99%+ of revenue (minimal fees)
 - Verify genuine engagement (no bot manipulation)
 - Build sustainable income streams
@@ -201,7 +199,7 @@ We're building infrastructure that enables **AI agents to transact autonomously*
 - Support creators directly
 - Earn rewards for real attention
 - Privacy-preserving (no data exploitation)
-- True ownership (crypto wallets)
+- Blockchain native ownership
 - Engaging gamification mechanics
 
 **For Platforms:**
