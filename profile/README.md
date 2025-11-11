@@ -82,6 +82,18 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 
 **Use Cases:** Creator tips, freelancer invoices, event tickets, donations, peer-to-peer payments
 
+#### 🎮 555 (Gamification Engine)
+*The engagement layer that makes earning fun*
+
+- **Quest System**: Creators design engagement quests (watch, share, comment, participate)
+- **Achievement Tracking**: On-chain badges and credentials for completed actions
+- **Leaderboards**: Competitive engagement with transparent, verifiable rankings
+- **Reward Multipliers**: Bonus rewards for consistent engagement and streaks
+- **Social Proof**: Public attestations of genuine participation
+- **Front Layer Integration**: Unified interface for all 555x402 protocols
+
+**Use Cases:** Content challenges, community building, audience activation, loyalty programs, educational platforms
+
 ---
 
 ## 🚀 Technology Stack
@@ -123,10 +135,12 @@ We're committed to advancing the [x402 protocol](https://x402.org)—an open sta
 - ✅ **Developer-first SDKs**: Make x402 adoption trivial
 - ✅ **Cross-chain ready**: Architecture supports multiple blockchains
 
-**x402 Partners We Integrate:**
-- [PayAI](https://payai.network) - AI agent micropayments
-- [Conduit](https://getconduit.io) - Gasless payment facilitator
-- Corbits, Crossmint, and more coming soon
+**x402 Ecosystem Partners:**
+- [PayAI](https://payai.network) - AI agent micropayment facilitator
+- [Conduit](https://getconduit.io) - Gasless payment settlement
+- [Privy](https://privy.io) - Embedded wallet infrastructure
+- [Crossmint](https://crossmint.com) - Wallet-as-a-service
+- More facilitators joining the network daily
 
 ---
 
@@ -181,18 +195,21 @@ We're building infrastructure that enables **AI agents to transact autonomously*
 - Keep 99%+ of revenue (minimal fees)
 - Verify genuine engagement (no bot manipulation)
 - Build sustainable income streams
+- Gamified audience engagement through 555
 
 **For Audiences:**
 - Support creators directly
 - Earn rewards for real attention
 - Privacy-preserving (no data exploitation)
 - True ownership (crypto wallets)
+- Engaging gamification mechanics
 
 **For Platforms:**
 - Monetization layer without billing infrastructure
 - Fraud-resistant reward systems
 - Revenue share without intermediaries
 - Developer-friendly APIs
+- Gamification engine integration
 
 ---
 
