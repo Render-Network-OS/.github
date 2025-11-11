@@ -7,8 +7,8 @@
 **Building the Infrastructure for the Creator Economy**
 
 [![Website](https://img.shields.io/badge/Website-rendernet.work-blue?style=for-the-badge)](https://rendernet.work)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/rendernet)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rendernetwork)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/35UNPtu8M5)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RNDRNTWRK)
 
 </div>
 
@@ -24,9 +24,29 @@ We're building open-source infrastructure that empowers creators to monetize the
 
 ## 🏗️ What We Build
 
+### 555: Gamification Engine
+*The front layer that makes everything accessible and engaging*
+
+**555** is the user-facing gamification layer that unifies AGG, VAP, and Hyperlink into cohesive experiences. It transforms complex blockchain interactions into intuitive, game-like interfaces where users earn, compete, and progress.
+
+**Key Features:**
+- **Leaderboards & Rankings**: Compete globally or within communities
+- **Achievement Systems**: Unlock milestones for engagement and payments
+- **Progression Mechanics**: Level up through verified attention and transactions
+- **Social Dynamics**: Follow creators, share achievements, build reputation
+- **Unified Dashboard**: One interface for all earnings, links, and activity
+
+**Why Gamification Matters:**
+- Makes crypto adoption invisible (users don't think about wallets/transactions)
+- Increases engagement through competition and rewards
+- Provides clear value feedback (points, badges, levels)
+- Builds habit formation and retention
+
+---
+
 ### 555x402: Universal Payment Infrastructure
 
-A Solana-native suite enabling **verifiable attention** and **programmable payments** for the modern internet.
+A Solana-native backend suite enabling **verifiable attention** and **programmable payments** that powers the 555 gamification layer.
 
 **Three Core Protocols:**
 
@@ -150,9 +170,9 @@ We're building infrastructure that enables **AI agents to transact autonomously*
 **555x402 Alternative:**
 - ✅ 0.5-1% total fees
 - ✅ Cryptographic proof of engagement
-- ✅ Portable payment links (work anywhere)
+- ✅ Portable payment links (get paid anywhere)
 - ✅ Platform-agnostic (own your audience)
-- ✅ Instant settlement (2 seconds)
+- ✅ Instant settlement
 
 ### Real-World Impact
 
@@ -176,41 +196,14 @@ We're building infrastructure that enables **AI agents to transact autonomously*
 
 ---
 
-## 📦 Open Source Repositories
-
-### Core Infrastructure
-
-| Repository | Description | Language | Status |
-|------------|-------------|----------|--------|
-| [555x402-agg-facilitator-router](https://github.com/Render-Network-OS/555x402-agg-facilitator-router) | Payment aggregation and facilitator routing | Rust | ✅ Production |
-| [555x402-api-gateway](https://github.com/Render-Network-OS/555x402-api-gateway) | Public API gateway with auth and rate limiting | Go | ✅ Production |
-| [555x402-hyperlink-link-service](https://github.com/Render-Network-OS/555x402-hyperlink-link-service) | Payment link management and tracking | Go | ✅ Production |
-| [555x402-session-manager](https://github.com/Render-Network-OS/555x402-session-manager) | VAP session orchestration and signature verification | Go | ✅ Production |
-| [555x402-agg-indexer](https://github.com/Render-Network-OS/555x402-agg-indexer) | Settlement indexing and status tracking | TypeScript | ✅ Production |
-| [555x402-agg-facilitator-watchdog](https://github.com/Render-Network-OS/555x402-agg-facilitator-watchdog) | Facilitator health monitoring and scoring | Go | ✅ Production |
-
-### Developer SDKs
+## 📦 Developer SDKs
 
 | Package | Description | Downloads | Docs |
 |---------|-------------|-----------|------|
-| [@555x402/agg](https://github.com/Render-Network-OS/555x402-agg-sdk) | Payment aggregation client for TypeScript/Node | ![npm](https://img.shields.io/npm/dm/@555x402/agg) | [API Ref](https://docs.rendernet.work/sdk/agg) |
-| [@vap/sdk](https://github.com/Render-Network-OS/555x402-vap-sdk) | Verifiable attention WebSocket client | ![npm](https://img.shields.io/npm/dm/@vap/sdk) | [Guide](https://docs.rendernet.work/sdk/vap) |
-| [@555x402/hyperlink](https://github.com/Render-Network-OS/555x402-hyperlink) | Payment link React components | ![npm](https://img.shields.io/npm/dm/@555x402/hyperlink) | [Components](https://docs.rendernet.work/sdk/hyperlink) |
-| [@555x402/solana402-express](https://github.com/Render-Network-OS/555x402-solana-express) | Express middleware for pay-per-request APIs | ![npm](https://img.shields.io/npm/dm/@555x402/solana402-express) | [Middleware](https://docs.rendernet.work/sdk/express) |
-
-### Applications
-
-| Repository | Description | Tech Stack |
-|------------|-------------|------------|
-| [555x402-hyperlink-landing](https://github.com/Render-Network-OS/555x402-hyperlink-landing) | Modern payment link landing page | Next.js 14, Privy, TailwindCSS |
-| [555x402-examples](https://github.com/Render-Network-OS/555x402-examples) | Sample applications and integration guides | TypeScript, React |
-
-### Infrastructure & Documentation
-
-| Repository | Description |
-|------------|-------------|
-| [555x402-infra](https://github.com/Render-Network-OS/555x402-infra) | Kubernetes manifests, Terraform, Helm charts |
-| [555x402-docs](https://github.com/Render-Network-OS/555x402-docs) | Comprehensive documentation and guides |
+| [@555x402/agg](https://github.com/Render-Network-OS/555x402-agg-sdk) | Payment aggregation client for TypeScript/Node | ![npm](https://img.shields.io/npm/dm/@555x402/agg) | [Docs](https://github.com/Render-Network-OS/555x402-agg-sdk#readme) |
+| [@vap/sdk](https://github.com/Render-Network-OS/555x402-vap-sdk) | Verifiable attention WebSocket client | ![npm](https://img.shields.io/npm/dm/@vap/sdk) | [Docs](https://github.com/Render-Network-OS/555x402-vap-sdk#readme) |
+| [@555x402/hyperlink](https://github.com/Render-Network-OS/555x402-hyperlink) | Payment link React components | ![npm](https://img.shields.io/npm/dm/@555x402/hyperlink) | [Docs](https://github.com/Render-Network-OS/555x402-hyperlink#readme) |
+| [@555x402/solana402-express](https://github.com/Render-Network-OS/555x402-solana-express) | Express middleware for pay-per-request APIs | ![npm](https://img.shields.io/npm/dm/@555x402/solana402-express) | [Docs](https://github.com/Render-Network-OS/555x402-solana-express#readme) |
 
 ---
 
@@ -273,9 +266,9 @@ app.post('/premium-api', async (req, res) => {
 
 **Resources:**
 - 📚 [Documentation](https://docs.rendernet.work)
-- 🎓 [Tutorials](https://docs.rendernet.work/tutorials)
-- 💬 [Discord Community](https://discord.gg/rendernet)
-- 🐛 [Report Issues](https://github.com/Render-Network-OS/555x402-infra/issues)
+- 🎓 [Get Started](https://rendernet.work)
+- 💬 [Discord Community](https://discord.gg/35UNPtu8M5)
+- 🐛 [Support](https://discord.gg/35UNPtu8M5)
 
 ### For Creators
 
@@ -321,50 +314,14 @@ We welcome contributions! See our [Contributing Guide](https://github.com/Render
 
 ---
 
-## 🗺️ Roadmap
-
-### Q4 2025 - Foundation ✅
-- [x] Core infrastructure deployed
-- [x] AGG payment routing operational
-- [x] Hyperlink payment links live
-- [x] Developer SDKs published
-- [x] x402 facilitator integration (PayAI)
-
-### Q1 2026 - Expansion
-- [ ] VAP production deployment
-- [ ] Mobile SDKs (React Native)
-- [ ] Multi-chain support (Ethereum, Base)
-- [ ] Fiat on-ramp integration (Stripe, Circle)
-- [ ] Creator dashboard and analytics
-
-### Q2 2026 - Ecosystem
-- [ ] Marketplace for x402 APIs
-- [ ] Creator monetization templates
-- [ ] AI agent SDK extensions
-- [ ] Community-driven facilitators
-- [ ] Grants program for ecosystem projects
-
-### Q3 2026 - Scale
-- [ ] 1M+ transactions per day
-- [ ] 100+ integrated facilitators
-- [ ] 10,000+ creators earning
-- [ ] Multi-region deployment
-- [ ] Enterprise support tier
-
----
-
 ## 🤝 Partnerships & Integrations
 
 **x402 Ecosystem:**
 - [PayAI](https://payai.network) - AI micropayment facilitator
 - [Conduit](https://getconduit.io) - Instant settlement provider
-- [Crossmint](https://crossmint.com) - Wallet infrastructure
+- [Privy](https://privy.io) - Embedded wallet infrastructure
+- [Crossmint](https://crossmint.com) - Wallet services
 - [Helius](https://helius.xyz) - Solana RPC provider
-
-**Infrastructure Partners:**
-- [DigitalOcean](https://digitalocean.com) - Kubernetes hosting
-- [Cloudflare](https://cloudflare.com) - CDN and DDoS protection
-- [Privy](https://privy.io) - Embedded wallet provider
 
 **Open Source Contributors:**
 - [Solana Foundation](https://solana.org)
@@ -389,15 +346,15 @@ We welcome contributions! See our [Contributing Guide](https://github.com/Render
 
 ## 📈 By the Numbers
 
-**Developer Adoption:**
-- 13 open-source repositories
+**Developer Experience:**
 - 4 production-ready SDKs
-- 2,500+ lines of documentation
-- 600+ lines of test coverage
-- 10+ workflow automations
+- 2,500+ lines of SDK documentation
+- Comprehensive examples and guides
+- TypeScript-first with full type safety
+- Active community support
 
 **Technical Excellence:**
-- 5/6 microservices operational
+- Production-grade microservices architecture
 - 99.9% uptime SLA
 - <500ms API latency (p95)
 - 1000+ RPS load tested
@@ -415,32 +372,39 @@ We welcome contributions! See our [Contributing Guide](https://github.com/Render
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    555x402 Platform                          │
+│                    555 Platform Stack                         │
 ├─────────────────────────────────────────────────────────────┤
 │                                                              │
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
-│  │     AGG      │  │     VAP      │  │  Hyperlink   │      │
-│  │   Payment    │  │  Attention   │  │   Payment    │      │
-│  │  Aggregator  │  │   Protocol   │  │    Links     │      │
-│  └──────┬───────┘  └──────┬───────┘  └──────┬───────┘      │
-│         │                  │                  │               │
-│         └──────────────────┼──────────────────┘              │
-│                            │                                  │
-│                   ┌────────▼────────┐                        │
-│                   │   API Gateway   │                        │
-│                   └────────┬────────┘                        │
+│                   ┌────────────────┐                        │
+│                   │  555 Frontend  │                        │
+│                   │  Gamification  │                        │
+│                   │     Engine     │                        │
+│                   └────────┬───────┘                        │
 │                            │                                  │
 │         ┌──────────────────┼──────────────────┐             │
 │         │                  │                  │              │
-│    ┌────▼────┐      ┌─────▼─────┐      ┌────▼────┐        │
-│    │ Kafka   │      │ PostgreSQL │      │  Redis  │        │
-│    │(Redpanda│      │            │      │         │        │
-│    └─────────┘      └───────────┘      └─────────┘        │
-│                                                              │
-│                   ┌────────────────┐                        │
-│                   │ Solana Mainnet │                        │
-│                   │  (Settlement)  │                        │
-│                   └────────────────┘                        │
+│  ┌──────▼──────┐  ┌───────▼──────┐  ┌───────▼──────┐      │
+│  │     AGG     │  │     VAP      │  │  Hyperlink   │      │
+│  │   Payment   │  │  Attention   │  │   Payment    │      │
+│  │ Aggregation │  │  Verification│  │    Links     │      │
+│  └──────┬──────┘  └──────┬───────┘  └──────┬───────┘      │
+│         └─────────────────┼──────────────────┘              │
+│                           │                                  │
+│              ┌────────────▼────────────┐                    │
+│              │   555x402 Backend API   │                    │
+│              └────────────┬────────────┘                    │
+│                           │                                  │
+│         ┌─────────────────┼─────────────────┐              │
+│         │                 │                 │               │
+│    ┌────▼────┐     ┌─────▼─────┐     ┌────▼────┐         │
+│    │ Redpanda│     │ PostgreSQL│     │  Redis  │         │
+│    │ (Events)│     │   (State) │     │ (Cache) │         │
+│    └─────────┘     └───────────┘     └─────────┘         │
+│                           │                                  │
+│              ┌────────────▼────────────┐                    │
+│              │    Solana Mainnet       │                    │
+│              │  (Instant Settlement)   │                    │
+│              └─────────────────────────┘                    │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -483,7 +447,7 @@ We welcome contributions! See our [Contributing Guide](https://github.com/Render
 - Share your implementation feedback
 
 **Create:**
-- Use 555x402 to monetize your work
+- Use 555x402 to monetize your internet presence
 - Share your success stories
 - Help other creators get started
 
@@ -502,8 +466,8 @@ We welcome contributions! See our [Contributing Guide](https://github.com/Render
 
 - 🌐 **Website**: [rendernet.work](https://rendernet.work)
 - 📖 **Documentation**: [docs.rendernet.work](https://docs.rendernet.work)
-- 💬 **Discord**: [discord.gg/rendernet](https://discord.gg/rendernet)
-- 🐦 **Twitter**: [@rendernetwork](https://twitter.com/rendernetwork)
+- 💬 **Discord**: [discord.gg/35UNPtu8M5](https://discord.gg/35UNPtu8M5)
+- 🐦 **X/Twitter**: [@RNDRNTWRK](https://x.com/RNDRNTWRK)
 - 📧 **Email**: hello@rendernet.work
 - 💼 **Partnerships**: partnerships@rendernet.work
 
@@ -519,7 +483,7 @@ All repositories are licensed under **MIT** unless otherwise specified. See indi
 
 **Building the future of the creator economy, one commit at a time.**
 
-[Get Started](https://docs.rendernet.work) • [Join Discord](https://discord.gg/rendernet) • [Follow Updates](https://twitter.com/rendernetwork)
+[Get Started](https://rendernet.work) • [Join Discord](https://discord.gg/35UNPtu8M5) • [Follow Updates](https://x.com/RNDRNTWRK)
 
 Made with ❤️ by the Render Network OS team and contributors worldwide
 
