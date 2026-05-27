@@ -1,0 +1,38 @@
+profile: github-org-repo-check
+class: beast
+capacity:
+  market: spot
+  strategy: most-available
+  fallback: on-demand-after-120s
+actions:
+  workflow: .github/workflows/crabbox.yml
+  job: hydrate
+  runnerLabels:
+    - crabbox
+  runnerVersion: latest
+  ephemeral: true
+sync:
+  delete: true
+  checksum: false
+  gitSeed: true
+  fingerprint: true
+  timeout: 15m
+  warnFiles: 50000
+  warnBytes: 5368709120
+  failFiles: 150000
+  failBytes: 21474836480
+  exclude:
+    - .cache
+    - .turbo
+    - dist
+    - node_modules
+env:
+  allow:
+    - CI
+    - NODE_OPTIONS
+ssh:
+  user: crabbox
+  port: "2222"
+  # Ordered fallback ports tried after ssh.port; use [] to disable fallback.
+  fallbackPorts:
+    - "22"
