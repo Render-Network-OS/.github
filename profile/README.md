@@ -6,7 +6,7 @@
 
 **Building the Infrastructure for the Creator Economy**
 
-[![Website](https://img.shields.io/badge/Website-rendernet.work-blue?style=for-the-badge)](https://rendernet.work)
+[![Website](https://img.shields.io/badge/Website-rndrntwrk.com-blue?style=for-the-badge)](https://rndrntwrk.com)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/35UNPtu8M5)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RNDRNTWRK)
 
@@ -74,7 +74,7 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 #### 🔗 Hyperlink (Universal Payment Links)
 *One link to accept payments everywhere*
 
-- **Username Support**: Pretty URLs like `rendernet.work/@alice`
+- **Username Support**: Creator usernames identify payment pages
 - **Embedded Wallets**: Recipients don't need existing crypto wallet
 - **Shareable Anywhere**: Twitter, Discord, WhatsApp, QR codes, email
 - **No Platform Integration**: Works without API access or partnerships
@@ -280,8 +280,8 @@ app.post('/premium-api', async (req, res) => {
 ```
 
 **Resources:**
-- 📚 [Documentation](https://docs.rendernet.work)
-- 🎓 [Get Started](https://rendernet.work)
+- 📚 [Documentation](https://docs.rndrntwrk.com)
+- 🎓 [Get Started](https://rndrntwrk.com)
 - 💬 [Discord Community](https://discord.gg/35UNPtu8M5)
 - 🐛 [Support](https://discord.gg/35UNPtu8M5)
 
@@ -289,7 +289,7 @@ app.post('/premium-api', async (req, res) => {
 
 **Create Your Payment Link:**
 
-1. Visit [555.rendernet.work](https://555.rendernet.work)
+1. Visit [555.rndrntwrk.com](https://555.rndrntwrk.com)
 2. Choose your @username
 3. Connect wallet (or create embedded wallet)
 4. Share your link anywhere
@@ -479,12 +479,10 @@ We welcome contributions! See our [Contributing Guide](https://github.com/Render
 
 ### Connect With Us
 
-- 🌐 **Website**: [rendernet.work](https://rendernet.work)
-- 📖 **Documentation**: [docs.rendernet.work](https://docs.rendernet.work)
-- 💬 **Discord**: [discord.gg/35UNPtu8M5](https://discord.gg/35UNPtu8M5)
+- 🌐 **Website**: [rndrntwrk.com](https://rndrntwrk.com)
+- 📖 **Documentation**: [docs.rndrntwrk.com](https://docs.rndrntwrk.com)
+- 💬 **Community & Support**: [Discord community](https://discord.gg/35UNPtu8M5)
 - 🐦 **X/Twitter**: [@RNDRNTWRK](https://x.com/RNDRNTWRK)
-- 📧 **Email**: hello@rendernet.work
-- 💼 **Partnerships**: partnerships@rendernet.work
 
 ---
 
@@ -498,7 +496,7 @@ All repositories are licensed under **MIT** unless otherwise specified. See indi
 
 **Building the future of the creator economy, one commit at a time.**
 
-[Get Started](https://rendernet.work) • [Join Discord](https://discord.gg/35UNPtu8M5) • [Follow Updates](https://x.com/RNDRNTWRK)
+[Get Started](https://rndrntwrk.com) • [Join Discord](https://discord.gg/35UNPtu8M5) • [Follow Updates](https://x.com/RNDRNTWRK)
 
 Made with ❤️ by the Render Network OS team and contributors worldwide
 
