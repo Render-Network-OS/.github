@@ -74,7 +74,7 @@ A Solana-native backend suite enabling **verifiable attention** and **programmab
 #### 🔗 Hyperlink (Universal Payment Links)
 *One link to accept payments everywhere*
 
-- **Username Support**: Pretty URLs such as `<your payment link>`
+- **Username Support**: Creator usernames identify payment pages
 - **Embedded Wallets**: Recipients don't need existing crypto wallet
 - **Shareable Anywhere**: Twitter, Discord, WhatsApp, QR codes, email
 - **No Platform Integration**: Works without API access or partnerships
@@ -481,10 +481,8 @@ We welcome contributions! See our [Contributing Guide](https://github.com/Render
 
 - 🌐 **Website**: [rndrntwrk.com](https://rndrntwrk.com)
 - 📖 **Documentation**: [docs.rndrntwrk.com](https://docs.rndrntwrk.com)
-- 💬 **Discord**: [discord.gg/35UNPtu8M5](https://discord.gg/35UNPtu8M5)
+- 💬 **Community & Support**: [Discord community](https://discord.gg/35UNPtu8M5)
 - 🐦 **X/Twitter**: [@RNDRNTWRK](https://x.com/RNDRNTWRK)
-- 📧 **Email (legacy, unverified)**: hello@rendernet.work
-- 💼 **Partnerships (legacy, unverified)**: partnerships@rendernet.work
 
 ---
 
